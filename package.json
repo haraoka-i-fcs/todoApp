@@ -26,5 +26,9 @@
   },
   "devDependencies": {
     "serverless": "^4.18.0"
+  },
+  "optionalDependencies": {
+    "@oxc-parser/binding-linux-x64-gnu": "latest",
+    "@rollup/rollup-linux-x64-gnu": "latest"
   }
 }
