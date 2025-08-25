@@ -1,0 +1,17 @@
+{
+  "date": "2025-08-21T08:36:32.264Z",
+  "preset": "aws-lambda",
+  "framework": {
+    "name": "nuxt",
+    "version": "4.0.3"
+  },
+  "versions": {
+    "nitro": "2.12.4"
+  },
+  "commands": {},
+  "config": {
+    "awsLambda": {
+      "streaming": false
+    }
+  }
+}
