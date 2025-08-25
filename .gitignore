@@ -1,0 +1,4 @@
+node_modules
+amplify
+.nuxt
+amplify-vue-template
