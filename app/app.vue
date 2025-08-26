@@ -1,7 +1,7 @@
 <template>
   <!--Todoリストの登録-->
   <div class="title">
-    <NuxtRouteAnnouncer />
+    <!-- <NuxtRouteAnnouncer /> -->
     
     <h1>タイトル</h1>
     <div class="inputArea">
